@@ -1,10 +1,10 @@
-# M&S Software Testing
+# Software Testing
 
-1. [Testing Policy](#policy)
+1. [Testing Policy](#1.-testing-policy)
 2. [Good Practices](#good-practices)
 3. [Delivery Enablers](#enablers)
 
-## 1. Testing Policy {#policy}
+## 1. Testing Policy
 
 1.1. [Shift Left: Test Early and Often](#shift-left)
 
